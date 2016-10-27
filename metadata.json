@@ -1,0 +1,12 @@
+{
+  "name": "dalen-apt_auto_pin",
+  "version": "0.1.0",
+  "author": "Erik Dalen",
+  "summary": "Automatically add apt pin files for packages with a version specified.",
+  "license": "Apache-2.0",
+  "source": "github.com/dalen/puppet-apt_auto_pin",
+  "project_page": "https://github.com/dalen/puppet-apt_auto_pin",
+  "issues_url": "https://github.com/dalen/puppet-apt_auto_pin/issues",
+  "dependencies": [],
+  "data_provider": null
+}
